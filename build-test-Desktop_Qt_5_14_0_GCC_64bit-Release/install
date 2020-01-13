@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo cp CheckNetSpeed /bin/CheckNetSpeed
+sudo cp ./sns  /bin/sns
